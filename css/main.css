@@ -561,6 +561,7 @@ footer {
 }
 .footer_bot a:hover {
     text-decoration: underline;
+	color: #FFFFFF;
 }
 .footer_bot-text {
 	margin: 0 40px 0 0;
